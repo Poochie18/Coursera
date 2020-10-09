@@ -2,11 +2,11 @@
 
 * This is the course project for the Getting and Cleaning Data Coursera course.
 
-A full description is available at the site where the data was obtained:
+* A full description is available at the site where the data was obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Here are the data for the project:
+* Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -18,7 +18,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 4. The README that explains the analysis files is clear and understandable.
 5. The work submitted for this project is the work of the student who submitted it.
 
-The following files from the initial dataset is used:
+### The following files from the initial dataset is used:
 
 1. features.txt - includes the descriptions for features measured
 2. X_train.txt - includes the measurements of the features in train set (one row - 1 measurement of 561 features)
