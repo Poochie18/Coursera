@@ -28,5 +28,5 @@ In order to use more human-friendly names, the built-in funcion gsub() has been 
 
 #### File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work)
 
-* FinalData (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and activity.
-* Export FinalData into TydeData.txt file.
+* Final_data (180 rows, 88 columns) is created by sumarizing Tidy_data taking the means of each variable for each activity and each subject, after groupped by subject and activity.
+* Export Final_data into TydeData.txt file.
